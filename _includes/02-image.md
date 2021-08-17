@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Photo of Parisian Sunset](https://github.com/darianzhang0/darianzhang0.github.io/blob/main/images/me.JPG)
